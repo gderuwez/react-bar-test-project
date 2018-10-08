@@ -20,7 +20,7 @@ Just follow the link to the website to see the result of my work.
 - the specification of the eexercie where given [here](https://github.com/becodeorg/Johnson2/tree/master/08-REACT)
 
 ## Modules, Libraries or frameworks used:
--[React](https://reactjs.org/)
--[Firebase](https://firebase.google.com)
--[Re-base](https://github.com/tylermcginnis/re-base)
+- [React](https://reactjs.org/)
+- [Firebase](https://firebase.google.com)
+- [Re-base](https://github.com/tylermcginnis/re-base)
 
